@@ -61,6 +61,7 @@ kotlin {
 
                 implementation("org.jetbrains.kotlin-wrappers:kotlin-react:$reactVersion")
                 implementation("org.jetbrains.kotlin-wrappers:kotlin-react-dom:$reactVersion")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-react-css:$reactVersion")
             }
         }
     }
